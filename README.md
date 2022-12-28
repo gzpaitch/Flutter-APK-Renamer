@@ -1,5 +1,5 @@
 <h1>Flutter APK Renamer</h1>
-<p>A VS Code extension that watches the "\build\app\outputs\flutter-apk\" folder of the current Flutter project and then asks the user to rename the last "app-release.apk" file. The user is then asked if they want to move the renamed file to another folder on their computer.</p>
+<p>A VS Code extension that watches the "\build\app\outputs\flutter-apk\" folder of the current Flutter project to automatically detect the new "app-release.apk" file and prompt the user to enter a new name for the file. The user is then asked if they want to move the renamed file to another folder on their computer.</p>
 <h2>Features</h2>
 <ul>
   <li>File renaming: Allows the user to rename the "app-release.apk" file in the "\build\app\outputs\flutter-apk\" folder.</li>
