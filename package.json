@@ -26,6 +26,8 @@
     "type": "git",
     "url": "https://github.com/gzpaitch/watch_builded.git"
   },
+
+  
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
