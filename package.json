@@ -1,6 +1,6 @@
 {
-  "name": "watch-builded",
-  "displayName": "Watch Builded",
+  "name": "flutter-apk-renamer",
+  "displayName": "Flutter APK Renamer",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -13,18 +13,11 @@
     "onLanguage:flutter"
   ],
   "main": "./out/extension.js",
-  "contributes": {
-    "commands": [
-      {
-        "command": "watch-builded",
-        "title": "Watch Builded"
-      }
-    ]
-  },
+  
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/gzpaitch/watch_builded.git"
+    "url": "https://github.com/gzpaitch/Flutter-APK-Renamer.git"
   },
 
   
